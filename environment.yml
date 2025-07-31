@@ -17,4 +17,5 @@ dependencies:
     - spectral_connectivity
     - FOOOF
     - seaborn
+    - scikit-learn
 prefix: /Users/patrick_bloniasz/miniforge3/envs/spectral-env

@@ -18,4 +18,5 @@ dependencies:
     - FOOOF
     - seaborn
     - scikit-learn
+    - mne
 prefix: /Users/patrick_bloniasz/miniforge3/envs/spectral-env

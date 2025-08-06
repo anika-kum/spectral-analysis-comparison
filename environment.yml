@@ -1,0 +1,22 @@
+name: spectral-decomposition
+channels:
+  - edeno
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipykernel
+  - statsmodels
+  - scipy
+  - pip
+  - pytest
+  - pip:
+    - black
+    - "black[jupyter]"
+    - pre-commit
+    - spectral_connectivity
+    - FOOOF
+    - seaborn
+    - scikit-learn
+    - mne
+prefix: /Users/patrick_bloniasz/miniforge3/envs/spectral-env
